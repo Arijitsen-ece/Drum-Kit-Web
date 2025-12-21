@@ -18,6 +18,5 @@ JavaScript listens for click and keypress events and plays the matching audio.
 - CSS
 - JavaScript
 
-## ▶️ Run Locally
-```bash
-https://github.com/Arijitsen-ece/Drum-Kit.git
+🔗 **Live Web:**  
+👉 https://arijitsen-ece.github.io/Drum-Kit-Web/
